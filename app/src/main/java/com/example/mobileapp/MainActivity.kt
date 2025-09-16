@@ -54,7 +54,7 @@ fun HomeScreen() {
         )
 
 
-        Text("위치: 우송대 도서관 옆",
+        Text("위치: 우송대 도서관 옆!",
             style = MaterialTheme.typography.headlineMedium)
 
     }
